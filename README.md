@@ -1,6 +1,4 @@
-# Calender13
- Dropped the traditional calender and made my own. 13 months renamed the months and the whole planet casn use it. 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
